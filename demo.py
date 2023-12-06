@@ -7,3 +7,5 @@ print("new change")
 
 
 print("latest stash changes")
+
+print("pure stash")
